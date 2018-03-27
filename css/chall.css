@@ -1,0 +1,16 @@
+#sign-title{
+	height: 45px;
+}
+#nav-title{
+	height: 25px;
+}
+#panel{
+	display: none;
+}
+#picture{
+	background-image: url("https://www.walldevil.com/wallpapers/a87/wallpaper-high-abstract-fresh-definition-resolution-hdpicture-wallstock.jpg"); ;
+}
+.column-24 h1{
+	text-align: center;
+
+}
