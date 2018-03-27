@@ -8,7 +8,10 @@
 	display: none;
 }
 #picture{
-	background-image: url("https://www.walldevil.com/wallpapers/a87/wallpaper-high-abstract-fresh-definition-resolution-hdpicture-wallstock.jpg"); ;
+	background: url("https://www.walldevil.com/wallpapers/a87/wallpaper-high-abstract-fresh-definition-resolution-hdpicture-wallstock.jpg") no-repeat;
+	background-size: 100% 100%;
+	height: 20em;
+	max-width: 100%;
 }
 .column-24 h1{
 	text-align: center;
